@@ -4,7 +4,7 @@ To move and drive the joints of the robot using python API.
 
 ## Equipment’s required:
 
-Visual Components Premium 4.3
+Visual Components Premium 4.3.
 
 ## Procedure:
 
